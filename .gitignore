@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Cmd_Demo/obj/Debug/netcoreapp2.1/Cmd_Demo.csprojAssemblyReference.cache
+/.vs/Cmd_Demo/v15/Server/sqlite3
